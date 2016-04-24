@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: http://abscisse.github.io
 permalink: pretty
 prose:
   rooturl: '_posts'
