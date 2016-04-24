@@ -2,7 +2,7 @@ baseurl: /abscisse.github.io
 permalink: pretty
 prose:
   rooturl: '_posts'
-  siteurl: 'http://prose.github.io/abscisse/'
+  siteurl: 'http://abscisse.github.io'
   relativeLinks: 'http://prose.github.io/abscisse/links.jsonp'
   media: 'media'
   metadata:
