@@ -1,6 +1,5 @@
 baseurl: /abscisse.github.io
 permalink: pretty
-markdown: rdiscount
 prose:
   rooturl: '_posts'
   siteurl: 'http://prose.github.io/abscisse/'
